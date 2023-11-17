@@ -1,6 +1,6 @@
 ### Howdy! 👋
 - 🤗 Name's Oscar, but feel free to call me Ked,
-- 📌 Pronouns are he/him, but refer to me however you like,
+- 📌 Pronouns are he/him, yet refer to me anyhow you desire,
 - 🦎 Geek beyond point of no return, loving all of IT, philosophy and arts,
 - 📫 Reach me there 👉 o.mat.makowski@gmail.com,
 - 🌱 I’m currently learning C#,
