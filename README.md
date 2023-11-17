@@ -1,4 +1,8 @@
-### Hi there 👋
+### Howdy! 👋
+- 🤗 Name's Oscar, but feel free to call me Ked,
+- 📫 Reach me there 👉 o.mat.makowski@gmail.com,
+- 🌱 I’m currently learning C#,
+- 👨🏻‍🎓 Computer Science Engineer soon™️.
 
 <!--
 **Kedjian/Kedjian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
