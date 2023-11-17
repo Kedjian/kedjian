@@ -1,8 +1,9 @@
 ### Howdy! 👋
 - 🤗 Name's Oscar, but feel free to call me Ked,
+- 😄 Pronouns: he/him, but refer to me however you like,
 - 📫 Reach me there 👉 o.mat.makowski@gmail.com,
 - 🌱 I’m currently learning C#,
-- 🔭 Currently working on my respository \LearningC_Sharp, 
+- 🔭 Currently working on my respository called 'LearningC_Sharp', 
 - 👨🏻‍🎓 Computer Science Engineer student.
 
 <!--
