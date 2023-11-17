@@ -1,9 +1,10 @@
 ### Howdy! 👋
 - 🤗 Name's Oscar, but feel free to call me Ked,
-- 😄 Pronouns: he/him, but refer to me however you like,
+- 📌 Pronouns are he/him, but refer to me however you like,
+- 🐲 I am a lost cause geek who loves all IT, philosophy and arts,
 - 📫 Reach me there 👉 o.mat.makowski@gmail.com,
 - 🌱 I’m currently learning C#,
-- 🔭 Currently working on my respository called 'LearningC_Sharp', 
+- 🔧 Working on my respository called 'LearningC_Sharp', 
 - 👨🏻‍🎓 Computer Science Engineer student.
 
 <!--
