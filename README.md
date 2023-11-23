@@ -1,7 +1,7 @@
 ### Howdy! 👋
 - 🤗 Name's Oscar, but feel free to call me Ked,
 - 📌 Pronouns are he/him, yet refer to me anyhow you desire,
-- 🦎 Geek beyond point of no return.
+- 🦎 Geek beyond point of no return,
 - 📫 Reach me through o.mat.makowski@gmail.com,
 - 🌱 I’m currently learning C#,
 - 👨🏻‍🎓 Computer Science Engineer student.
