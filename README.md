@@ -5,9 +5,6 @@
 - 📫 Reach me through o.mat.makowski@gmail.com,
 - 🌱 I’m currently learning C#,
 - 👨🏻‍🎓 Computer Science Engineer student.
-- 💬 Ask me about anything!
-
-[![Kedjian's GitHub stats](https://github-readme-stats.vercel.app/api?username=kedjian)](https://github.com/kedjian/github-readme-stats)
 <!--
 **Kedjian/Kedjian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
