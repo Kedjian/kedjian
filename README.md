@@ -3,7 +3,7 @@
 - 📌 Pronouns are he/him, yet refer to me anyhow you desire,
 - 🦎 Geek beyond point of no return,
 - 📫 Reach me through o.mat.makowski@gmail.com,
-- 🌿 Currently learning Java, React, HTML & CSS,
+- 🌿 Currently learning Java, HTML, CSS, Spring, Hibernate, Node.js, Express & MongoDB,
 - 👨🏻‍🎓 Computer Science Engineer student.        
 <!--
 **Kedjian/Kedjian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
