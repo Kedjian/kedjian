@@ -4,7 +4,6 @@
 - 🦎 Geek beyond point of no return.
 - 📫 Reach me through o.mat.makowski@gmail.com.
 - 🌿 Currently learning Java and Spring Boot.
-- 👨🏻‍🎓 Computer Science Engineer student at Polish-Japanese Academy of Computer Technology.
 - 🧐 Interested in creating effective solutions.
 <!--
 **Kedjian/Kedjian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
